@@ -1,0 +1,5 @@
+ejb\Flusso_.class
+ejb\FlussoFacade.class
+ejb\AbstractFacade.class
+ejb\Flusso.class
+ejb\FlussoFacadeLocal.class
